@@ -9,4 +9,5 @@ In the Game of Life each grid cell can have either one of two states: dead or al
 4. A dead cell will be brought back to live if it has exactly three live neighbors.
 
 To Place a cell, you choose a Column(A-T) and a Line(1-20), Ex: E5, and press Enter.
+
 To Start the Simulation type "Done".
